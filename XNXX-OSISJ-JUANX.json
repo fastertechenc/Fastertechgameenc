@@ -7,7 +7,10 @@
                 "steamAppId": 0,
                 "header": "",
                 "files": []
-            }
+            },
+            "steam_username": "juanx",
+            "active": "on",
+            "loginLisensi": "2026-05-26 23:21:20"
         }
     ]
 }
