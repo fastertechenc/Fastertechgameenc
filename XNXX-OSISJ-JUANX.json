@@ -1,16 +1,19 @@
 {
-    "lisensi": [
-        {
-            "generated_at": "2026-05-27 06:00:01",
-            "game": {
-                "name": "Isi nama game",
-                "steamAppId": 0,
-                "header": "",
-                "files": []
-            },
-            "steam_username": "juanx",
-            "active": "on",
-            "loginLisensi": "2026-05-26 23:21:20"
-        }
-    ]
+  "lisensi": [
+    {
+      "generated_at": "2026-05-27 06:00:01",
+      "game": {
+        "name": "Isi nama game",
+        "steamAppId": 0,
+        "header": "",
+        "files": []
+      },
+      "steam_username": "juanx",
+      "active": "on",
+      "loginLisensi": "2026-05-26 23:21:20"
+    }
+  ],
+  "steam_username": "juanxdafa",
+  "active": "ON",
+  "loginLisensi": "2026-05-27 06:41:07"
 }
