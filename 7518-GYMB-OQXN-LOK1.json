@@ -1,0 +1,17 @@
+{
+    "license_key": "7518-GYMB-OQXN-LOK1",
+    "brand": "JDFGAMES",
+    "active": "OFF",
+    "created_at": "2026-05-28 02:45:56",
+    "customer": {
+        "name": "Marvel’s Spider-Man: Miles Morales",
+        "email": "faispml157@gmail.com"
+    },
+    "game": {
+        "name": "Marvel’s Spider-Man: Miles Morales",
+        "appId": "1817190",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/header.jpg",
+        "has_fix": false,
+        "fix_files": []
+    }
+}
