@@ -1,17 +1,19 @@
 {
-    "license_key": "3II8-QMWR-3LHA-HEDE",
-    "brand": "JDFGAMES",
-    "active": "OFF",
-    "created_at": "2026-05-27 23:11:03",
-    "customer": {
-        "name": "PRO EVOLUTION SOCCER 2018",
-        "email": "dafajuann@gmail.com"
-    },
-    "game": {
-        "name": "PRO EVOLUTION SOCCER 2018",
-        "appId": "592580",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/592580/header.jpg",
-        "has_fix": false,
-        "fix_files": []
-    }
+  "license_key": "3II8-QMWR-3LHA-HEDE",
+  "brand": "JDFGAMES",
+  "active": "ON",
+  "created_at": "2026-05-27 23:11:03",
+  "customer": {
+    "name": "PRO EVOLUTION SOCCER 2018",
+    "email": "dafajuann@gmail.com"
+  },
+  "game": {
+    "name": "PRO EVOLUTION SOCCER 2018",
+    "appId": "592580",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/592580/header.jpg",
+    "has_fix": false,
+    "fix_files": []
+  },
+  "steam_username": "Evernext",
+  "loginLisensi": "2026-05-27 22:21:09"
 }
