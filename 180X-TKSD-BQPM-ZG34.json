@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-05-28 04:47:12",
+    "loginLisensi": "",
+    "game": {
+        "name": "Resident Evil 5",
+        "steamAppId": 21690,
+        "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/21690/header.jpg?t=1768960574",
+        "inject_files": [
+            "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/21690.zip"
+        ],
+        "bypass_files": []
+    }
+}
