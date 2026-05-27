@@ -1,0 +1,17 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-05-27 09:00:08",
+    "loginLisensi": "",
+    "game": {
+        "name": "Far Cry® 5",
+        "steamAppId": 552520,
+        "header": "null",
+        "inject_files": [
+            "https://drive.google.com/file/d/1Ne3AiJ6aEJDmcP5YfzAEMs29ZBu_n3u4/view?usp=sharing"
+        ],
+        "bypass_files": [
+            "https://huggingface.co/datasets/dikiajak/fix/resolve/main/FARCRY%205%20FIX.rar?download=true"
+        ]
+    }
+}
