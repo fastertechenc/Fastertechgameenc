@@ -1,0 +1,17 @@
+{
+    "license_key": "QV82-H2YX-9BDC-I4P6",
+    "brand": "JDFGAMES",
+    "active": "OFF",
+    "created_at": "2026-05-28 03:17:19",
+    "customer": {
+        "name": "PRO EVOLUTION SOCCER 2018",
+        "email": "jajsjjs@gmail.com"
+    },
+    "game": {
+        "name": "PRO EVOLUTION SOCCER 2018",
+        "appId": "592580",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/592580/header.jpg",
+        "has_fix": false,
+        "fix_files": []
+    }
+}
