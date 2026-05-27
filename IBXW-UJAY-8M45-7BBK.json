@@ -1,0 +1,17 @@
+{
+    "license_key": "IBXW-UJAY-8M45-7BBK",
+    "brand": "JDFGAMES",
+    "active": "OFF",
+    "created_at": "2026-05-27 19:07:33",
+    "customer": {
+        "name": "Five Hearts Under One Roof",
+        "email": "agul44472@gmail.com"
+    },
+    "game": {
+        "name": "Five Hearts Under One Roof",
+        "appId": 3021100,
+        "header": "",
+        "has_fix": false,
+        "fix_files": []
+    }
+}
