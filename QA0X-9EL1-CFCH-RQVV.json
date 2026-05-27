@@ -1,0 +1,17 @@
+{
+    "license_key": "QA0X-9EL1-CFCH-RQVV",
+    "brand": "JDFGAMES",
+    "active": "OFF",
+    "created_at": "2026-05-27 19:20:38",
+    "customer": {
+        "name": "Attack on Titan 2 - A.O.T.2",
+        "email": "andhikawildan6@gmail.com"
+    },
+    "game": {
+        "name": "Attack on Titan 2 - A.O.T.2",
+        "appId": 601050,
+        "header": "",
+        "has_fix": false,
+        "fix_files": []
+    }
+}
