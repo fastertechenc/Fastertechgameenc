@@ -1,0 +1,19 @@
+{
+    "license_key": "BLGB-OG11-JL6T-A9MK",
+    "brand": "JDFGAMES",
+    "active": "OFF",
+    "created_at": "2026-05-27 22:27:11",
+    "customer": {
+        "name": "Grand Theft Auto III - The Definitive Edition",
+        "email": "dafajuann@gmail.com"
+    },
+    "game": {
+        "name": "Grand Theft Auto III - The Definitive Edition",
+        "appId": "1546970",
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546970/header.jpg",
+        "has_fix": true,
+        "fix_files": [
+            "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Grand.Theft.Auto.III.Definitive.Edition.rar"
+        ]
+    }
+}
