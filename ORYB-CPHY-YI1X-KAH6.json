@@ -1,17 +1,19 @@
 {
-    "license_key": "ORYB-CPHY-YI1X-KAH6",
-    "brand": "JDFGAMES",
-    "active": "OFF",
-    "created_at": "2026-05-28 02:55:21",
-    "customer": {
-        "name": "Cuphead",
-        "email": "juanxdafa@gmail.com"
-    },
-    "game": {
-        "name": "Cuphead",
-        "appId": "268910",
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg",
-        "has_fix": false,
-        "fix_files": []
-    }
+  "license_key": "ORYB-CPHY-YI1X-KAH6",
+  "brand": "JDFGAMES",
+  "active": "ON",
+  "created_at": "2026-05-28 02:55:21",
+  "customer": {
+    "name": "Cuphead",
+    "email": "juanxdafa@gmail.com"
+  },
+  "game": {
+    "name": "Cuphead",
+    "appId": "268910",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg",
+    "has_fix": false,
+    "fix_files": []
+  },
+  "steam_username": "juanxdafa",
+  "loginLisensi": "2026-05-28 02:55:41"
 }
