@@ -1,0 +1,17 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-05-29 03:55:19",
+    "loginLisensi": "",
+    "game": {
+        "name": "Stellar Blade™",
+        "steamAppId": 3489700,
+        "header": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg?t=1776466244",
+        "inject_files": [
+            "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/3489700.zip"
+        ],
+        "bypass_files": [
+            "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/StellarBlade.rar"
+        ]
+    }
+}
