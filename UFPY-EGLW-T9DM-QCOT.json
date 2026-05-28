@@ -1,0 +1,17 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-05-28 21:29:59",
+    "loginLisensi": "",
+    "game": {
+        "name": "Need for Speed™ Payback",
+        "steamAppId": 1262580,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262580/header.jpg",
+        "inject_files": [
+            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1262580&auth_code=RYUUMANIFEST72oz"
+        ],
+        "bypass_files": [
+            "https://drive.usercontent.google.com/download?id=1jaANSbstb_954FjLb_m2wERh7TYCZOvu&export=download&authuser=0&confirm=t&uuid=12edf0c1-1d61-45f9-b926-79736024c7d1&at=ALBwUgk4OpJGx-xnkxP7mGLMhTC8%3A1777477877565"
+        ]
+    }
+}
