@@ -1,0 +1,17 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-05-29 04:08:57",
+    "loginLisensi": "",
+    "game": {
+        "name": "Red Dead Redemption 2",
+        "steamAppId": 1174180,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+        "inject_files": [
+            "https://github.com/XinnFN/Game_Bypass/releases/download/gamelist/1174180.zip"
+        ],
+        "bypass_files": [
+            "https://github.com/XinnFN/Game_Bypass/releases/download/Bypass/Red.Dead.Redempion.2.rar"
+        ]
+    }
+}
