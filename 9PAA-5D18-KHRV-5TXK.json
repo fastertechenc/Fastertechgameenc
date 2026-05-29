@@ -1,0 +1,17 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-05-29 17:58:18",
+    "loginLisensi": "",
+    "game": {
+        "name": "Stardew Valley",
+        "steamAppId": 413150,
+        "header": "null",
+        "inject_files": [
+            "https://drive.google.com/file/d/1ZtiscgM2VPgC7JaRfedPmXd3naSaR8EM/view?usp=sharing"
+        ],
+        "bypass_files": [
+            "https://huggingface.co/datasets/dikiajak/fix/resolve/main/SW_Fix_Repair_Steam_Generic%20(1).zip?download=true"
+        ]
+    }
+}
