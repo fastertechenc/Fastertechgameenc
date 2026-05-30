@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-05-30 22:24:16",
-    "loginLisensi": "",
-    "game": {
-        "name": "Overcooked! 2",
-        "steamAppId": 728880,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg",
-        "inject_files": [
-            "https://download1478.mediafire.com/s5whj6vbpoog9HbJP1-7CULpje0nGNGH19H4xayPJ6dmHAucdVWqanlzaa8KRufw2A6eUbimvEIYRS28jKMVc_NPPU3JoBP96yD11LHUPjcmggu412N8htAelXdkchCg1Bars_h6qJSnrha0JpzCTDtw1ZleXurLfKT7O04FDnuJHQ/jedqp2oad4h803v/overcooked2.zip"
-        ],
-        "bypass_files": [
-            "https://download1478.mediafire.com/8lk9jo6997rge3RrJ_t0zHeX5ILwcnl86X3dWDvAUbZD2xSJMB55fRxZT3kb1yi3aqXhl23xY0OXx40SDQKEqrRadzHvrJ8ygNiIs4HXTN1Sfhboqy2MyeFSf5pAULicixKy3oBkUBM2pGx6Lcf2aodRQ_zzM6Zb2eGO5haCGb522A/jedqp2oad4h803v/overcooked2.zip"
-        ]
-    }
+  "steam_username": "Lucidream",
+  "active": "ON",
+  "waktusendadmin": "2026-05-30 22:24:16",
+  "loginLisensi": "2026-05-30 22:27:17",
+  "game": {
+    "name": "Overcooked! 2",
+    "steamAppId": 728880,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg",
+    "inject_files": [
+      "https://download1478.mediafire.com/s5whj6vbpoog9HbJP1-7CULpje0nGNGH19H4xayPJ6dmHAucdVWqanlzaa8KRufw2A6eUbimvEIYRS28jKMVc_NPPU3JoBP96yD11LHUPjcmggu412N8htAelXdkchCg1Bars_h6qJSnrha0JpzCTDtw1ZleXurLfKT7O04FDnuJHQ/jedqp2oad4h803v/overcooked2.zip"
+    ],
+    "bypass_files": [
+      "https://download1478.mediafire.com/8lk9jo6997rge3RrJ_t0zHeX5ILwcnl86X3dWDvAUbZD2xSJMB55fRxZT3kb1yi3aqXhl23xY0OXx40SDQKEqrRadzHvrJ8ygNiIs4HXTN1Sfhboqy2MyeFSf5pAULicixKy3oBkUBM2pGx6Lcf2aodRQ_zzM6Zb2eGO5haCGb522A/jedqp2oad4h803v/overcooked2.zip"
+    ]
+  }
 }
