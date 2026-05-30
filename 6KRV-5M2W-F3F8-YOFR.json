@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-05-30 07:49:53",
+    "loginLisensi": "",
+    "game": {
+        "name": "Marvel's Spider-Man 2",
+        "steamAppId": 2651280,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg",
+        "inject_files": [
+            "https://drive.google.com/file/d/1J2CCB9OJDAk4I5yoypSNr_j7cqvEEnzG/view?usp=sharing"
+        ],
+        "bypass_files": []
+    }
+}
