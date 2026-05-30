@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-05-30 17:11:14",
-    "loginLisensi": "",
-    "game": {
-        "name": "Red Dead Redemption 2",
-        "steamAppId": 1174180,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
-        "inject_files": [
-            "https://drive.google.com/file/d/1O1gXFVcGintfpvQwDy-QJ4a4_cWGb-1h/view?usp=drivesdk"
-        ],
-        "bypass_files": [
-            "https://www.mediafire.com/file/4mqsu4ge7aitom2/RDR2FIXkyzu.zip/file"
-        ]
-    }
+  "steam_username": "Old_Boy",
+  "active": "ON",
+  "waktusendadmin": "2026-05-30 17:11:14",
+  "loginLisensi": "2026-05-30 17:16:01",
+  "game": {
+    "name": "Red Dead Redemption 2",
+    "steamAppId": 1174180,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+    "inject_files": [
+      "https://drive.google.com/file/d/1O1gXFVcGintfpvQwDy-QJ4a4_cWGb-1h/view?usp=drivesdk"
+    ],
+    "bypass_files": [
+      "https://www.mediafire.com/file/4mqsu4ge7aitom2/RDR2FIXkyzu.zip/file"
+    ]
+  }
 }
