@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-05-30 19:14:01",
-    "loginLisensi": "",
-    "game": {
-        "name": "Overcooked! 2",
-        "steamAppId": 728880,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg",
-        "inject_files": [
-            "https://download1478.mediafire.com/s5whj6vbpoog9HbJP1-7CULpje0nGNGH19H4xayPJ6dmHAucdVWqanlzaa8KRufw2A6eUbimvEIYRS28jKMVc_NPPU3JoBP96yD11LHUPjcmggu412N8htAelXdkchCg1Bars_h6qJSnrha0JpzCTDtw1ZleXurLfKT7O04FDnuJHQ/jedqp2oad4h803v/overcooked2.zip"
-        ],
-        "bypass_files": [
-            "https://www.mediafire.com/file/jedqp2oad4h803v/overcooked2.zip/file"
-        ]
-    }
+  "steam_username": "User",
+  "active": "ON",
+  "waktusendadmin": "2026-05-30 19:14:01",
+  "loginLisensi": "2026-05-30 21:43:17",
+  "game": {
+    "name": "Overcooked! 2",
+    "steamAppId": 728880,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg",
+    "inject_files": [
+      "https://download1478.mediafire.com/s5whj6vbpoog9HbJP1-7CULpje0nGNGH19H4xayPJ6dmHAucdVWqanlzaa8KRufw2A6eUbimvEIYRS28jKMVc_NPPU3JoBP96yD11LHUPjcmggu412N8htAelXdkchCg1Bars_h6qJSnrha0JpzCTDtw1ZleXurLfKT7O04FDnuJHQ/jedqp2oad4h803v/overcooked2.zip"
+    ],
+    "bypass_files": [
+      "https://www.mediafire.com/file/jedqp2oad4h803v/overcooked2.zip/file"
+    ]
+  }
 }
