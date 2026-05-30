@@ -1,0 +1,17 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-05-31 02:52:31",
+    "loginLisensi": "",
+    "game": {
+        "name": "Coral Island",
+        "steamAppId": 1158160,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158160/header.jpg",
+        "inject_files": [
+            "https://drive.google.com/file/d/1k5tHWCILtpISjXmC1aCOZxFOBA9OSLk-/view?usp=drivesdk"
+        ],
+        "bypass_files": [
+            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/FIX%20coral%20island.zip?download=true"
+        ]
+    }
+}
