@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-01 13:22:57",
-    "loginLisensi": "",
-    "game": {
-        "name": "Stardew Valley",
-        "steamAppId": 413150,
-        "header": "null",
-        "inject_files": [
-            "https://drive.google.com/file/d/1ZtiscgM2VPgC7JaRfedPmXd3naSaR8EM/view?usp=sharing"
-        ],
-        "bypass_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/StarDewValley.zip?download=true"
-        ]
-    }
+  "steam_username": "achmadnabil56",
+  "active": "ON",
+  "waktusendadmin": "2026-06-01 13:22:57",
+  "loginLisensi": "2026-06-01 13:23:22",
+  "game": {
+    "name": "Stardew Valley",
+    "steamAppId": 413150,
+    "header": "null",
+    "inject_files": [
+      "https://drive.google.com/file/d/1ZtiscgM2VPgC7JaRfedPmXd3naSaR8EM/view?usp=sharing"
+    ],
+    "bypass_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/StarDewValley.zip?download=true"
+    ]
+  }
 }
