@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-01 12:06:41",
-    "loginLisensi": "",
-    "game": {
-        "name": "inZOI",
-        "steamAppId": 2456740,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/header.jpg",
-        "inject_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/inZoiAppId.zip?download=true"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "DAFFA",
+  "active": "ON",
+  "waktusendadmin": "2026-06-01 12:06:41",
+  "loginLisensi": "2026-06-01 13:53:17",
+  "game": {
+    "name": "inZOI",
+    "steamAppId": 2456740,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/header.jpg",
+    "inject_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/inZoiAppId.zip?download=true"
+    ],
+    "bypass_files": []
+  }
 }
