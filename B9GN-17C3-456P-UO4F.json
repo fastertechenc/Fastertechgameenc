@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-01 18:34:54",
-    "loginLisensi": "",
-    "game": {
-        "name": "Wallpaper Engine",
-        "steamAppId": 431960,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg",
-        "inject_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/WallPaperEngine%28appid%29.zip?download=true"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "Gavinn",
+  "active": "ON",
+  "waktusendadmin": "2026-06-01 18:34:54",
+  "loginLisensi": "2026-06-01 19:35:40",
+  "game": {
+    "name": "Wallpaper Engine",
+    "steamAppId": 431960,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg",
+    "inject_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/WallPaperEngine%28appid%29.zip?download=true"
+    ],
+    "bypass_files": []
+  }
 }
