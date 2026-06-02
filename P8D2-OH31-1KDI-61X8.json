@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-03 02:51:03",
-    "loginLisensi": "",
-    "game": {
-        "name": "Upin & Ipin Universe",
-        "steamAppId": 3401920,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401920/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3401920&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "nurrahman102618",
+  "active": "ON",
+  "waktusendadmin": "2026-06-03 02:51:03",
+  "loginLisensi": "2026-06-02 19:51:59",
+  "game": {
+    "name": "Upin & Ipin Universe",
+    "steamAppId": 3401920,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401920/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3401920&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": []
+  }
 }
