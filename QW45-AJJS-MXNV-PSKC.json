@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-02 18:46:07",
-    "loginLisensi": "",
-    "game": {
-        "name": "ELDEN RING",
-        "steamAppId": 1245620,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1245620&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "gulaharam",
+  "active": "ON",
+  "waktusendadmin": "2026-06-02 18:46:07",
+  "loginLisensi": "2026-06-02 18:50:12",
+  "game": {
+    "name": "ELDEN RING",
+    "steamAppId": 1245620,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1245620&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": []
+  }
 }
