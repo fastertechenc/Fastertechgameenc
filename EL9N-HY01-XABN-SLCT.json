@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-03 01:24:15",
+    "loginLisensi": "",
+    "game": {
+        "name": "Age of Empires II: Definitive Edition",
+        "steamAppId": 813780,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg",
+        "inject_files": [
+            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/813780.zip?download=true"
+        ],
+        "bypass_files": []
+    }
+}
