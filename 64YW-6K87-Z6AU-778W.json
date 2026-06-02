@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-03 01:04:42",
-    "loginLisensi": "",
-    "game": {
-        "name": "Yakuza 0 Director's Cut",
-        "steamAppId": 2988580,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988580/header.jpg",
-        "inject_files": [
-            "https://drive.google.com/file/d/19p41kY8mshL9JmvTtM-KTSu1JH6M1m1m/view?usp=drivesdk"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "Snitch",
+  "active": "ON",
+  "waktusendadmin": "2026-06-03 01:04:42",
+  "loginLisensi": "2026-06-03 01:23:05",
+  "game": {
+    "name": "Yakuza 0 Director's Cut",
+    "steamAppId": 2988580,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988580/header.jpg",
+    "inject_files": [
+      "https://drive.google.com/file/d/19p41kY8mshL9JmvTtM-KTSu1JH6M1m1m/view?usp=drivesdk"
+    ],
+    "bypass_files": []
+  }
 }
