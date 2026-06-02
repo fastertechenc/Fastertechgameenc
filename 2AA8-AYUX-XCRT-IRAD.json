@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-03 02:56:40",
-    "loginLisensi": "",
-    "game": {
-        "name": "PEAK",
-        "steamAppId": 3527290,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3527290&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": [
-            "https://drive.google.com/file/d/1JsBgmKDgAMoz1p5VV6raZFxLRu6azTWf/view?usp=drivesdk"
-        ]
-    }
+  "steam_username": "nurrahman102618",
+  "active": "ON",
+  "waktusendadmin": "2026-06-03 02:56:40",
+  "loginLisensi": "2026-06-02 19:59:49",
+  "game": {
+    "name": "PEAK",
+    "steamAppId": 3527290,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3527290&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": [
+      "https://drive.google.com/file/d/1JsBgmKDgAMoz1p5VV6raZFxLRu6azTWf/view?usp=drivesdk"
+    ]
+  }
 }
