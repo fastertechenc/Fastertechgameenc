@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-03 20:54:33",
+    "loginLisensi": "",
+    "game": {
+        "name": "STORY OF SEASONS: Grand Bazaar",
+        "steamAppId": 2508780,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2508780/header.jpg",
+        "inject_files": [
+            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2508780&auth_code=RYUUMANIFEST72oz"
+        ],
+        "bypass_files": []
+    }
+}
