@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-03 07:00:48",
-    "loginLisensi": "",
-    "game": {
-        "name": "Grand Theft Auto V Legacy",
-        "steamAppId": 271590,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg",
-        "inject_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/strixGtaVAppId.zip?download=true"
-        ],
-        "bypass_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/gtaVFixStrix.zip?download=true"
-        ]
-    }
+  "steam_username": "anggelmawa",
+  "active": "ON",
+  "waktusendadmin": "2026-06-03 07:00:48",
+  "loginLisensi": "2026-06-03 07:22:46",
+  "game": {
+    "name": "Grand Theft Auto V Legacy",
+    "steamAppId": 271590,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg",
+    "inject_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/strixGtaVAppId.zip?download=true"
+    ],
+    "bypass_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/gtaVFixStrix.zip?download=true"
+    ]
+  }
 }
