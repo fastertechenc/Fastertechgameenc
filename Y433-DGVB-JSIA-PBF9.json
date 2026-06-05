@@ -1,0 +1,17 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-05 15:29:59",
+    "loginLisensi": "",
+    "game": {
+        "name": "LEGO® Batman™: Legacy of the Dark Knight",
+        "steamAppId": 2215200,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215200/header.jpg",
+        "inject_files": [
+            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2215200%28V1%29.zip?download=true"
+        ],
+        "bypass_files": [
+            "https://huggingface.co/datasets/dikiajak/fix/resolve/main/batman%20lot.zip?download=true"
+        ]
+    }
+}
