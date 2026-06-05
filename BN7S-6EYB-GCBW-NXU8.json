@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-05 15:26:23",
-    "loginLisensi": "",
-    "game": {
-        "name": "DrainSim",
-        "steamAppId": 2963800,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963800/header.jpg",
-        "inject_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2963800%20%281%29.zip?download=true"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "YOKOHAMA",
+  "active": "ON",
+  "waktusendadmin": "2026-06-05 15:26:23",
+  "loginLisensi": "2026-06-05 15:26:45",
+  "game": {
+    "name": "DrainSim",
+    "steamAppId": 2963800,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963800/header.jpg",
+    "inject_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2963800%20%281%29.zip?download=true"
+    ],
+    "bypass_files": []
+  }
 }
