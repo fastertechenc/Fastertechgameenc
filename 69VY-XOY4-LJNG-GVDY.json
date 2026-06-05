@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-05 22:54:37",
+    "loginLisensi": "",
+    "game": {
+        "name": "Cities: Skylines",
+        "steamAppId": 255710,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg",
+        "inject_files": [
+            "https://drive.google.com/file/d/1DODxnjlUNoxRJIfdy8zF2cWQ2ufz-dxk/view?usp=sharing"
+        ],
+        "bypass_files": []
+    }
+}
