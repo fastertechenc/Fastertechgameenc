@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-07 00:27:30",
-    "loginLisensi": "",
-    "game": {
-        "name": "R.E.P.O.",
-        "steamAppId": 3241660,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3241660&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/repo.fixbypaass.zip?download=true"
-        ]
-    }
+  "steam_username": "fabiibav",
+  "active": "ON",
+  "waktusendadmin": "2026-06-07 00:27:30",
+  "loginLisensi": "2026-06-07 00:30:33",
+  "game": {
+    "name": "R.E.P.O.",
+    "steamAppId": 3241660,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3241660&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/repo.fixbypaass.zip?download=true"
+    ]
+  }
 }
