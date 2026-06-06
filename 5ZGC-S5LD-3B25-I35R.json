@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-06 14:15:33",
+    "loginLisensi": "",
+    "game": {
+        "name": "DYNASTY WARRIORS 9 Empires",
+        "steamAppId": 1341200,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1341200/header.jpg",
+        "inject_files": [
+            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1341200&auth_code=RYUUMANIFEST72oz"
+        ],
+        "bypass_files": []
+    }
+}
