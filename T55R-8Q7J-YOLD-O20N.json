@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-06 21:31:22",
-    "loginLisensi": "",
-    "game": {
-        "name": "Detroit: Become Human",
-        "steamAppId": 1222140,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
-        "inject_files": [
-            "https://drive.google.com/file/d/1NUA900-qwYH8DeVZ-xSTzimjS3hfho_j/view?usp=drivesdk"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "netjulian2023",
+  "active": "ON",
+  "waktusendadmin": "2026-06-06 21:31:22",
+  "loginLisensi": "2026-06-06 21:48:28",
+  "game": {
+    "name": "Detroit: Become Human",
+    "steamAppId": 1222140,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg",
+    "inject_files": [
+      "https://drive.google.com/file/d/1NUA900-qwYH8DeVZ-xSTzimjS3hfho_j/view?usp=drivesdk"
+    ],
+    "bypass_files": []
+  }
 }
