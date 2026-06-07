@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-07 17:58:26",
-    "loginLisensi": "",
-    "game": {
-        "name": "Construction Simulator",
-        "steamAppId": 1273400,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1273400&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "Fardhangibran",
+  "active": "ON",
+  "waktusendadmin": "2026-06-07 17:58:26",
+  "loginLisensi": "2026-06-07 23:05:04",
+  "game": {
+    "name": "Construction Simulator",
+    "steamAppId": 1273400,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1273400&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": []
+  }
 }
