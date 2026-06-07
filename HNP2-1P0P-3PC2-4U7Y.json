@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-07 19:05:13",
-    "loginLisensi": "",
-    "game": {
-        "name": "Five Nights at Freddy's: Security Breach",
-        "steamAppId": 747660,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/747660/header.jpg",
-        "inject_files": [
-            "https://drive.google.com/file/d/1BWUhBL6LOOtBv6VYLoBr98NtsK8Neker/view?usp=sharing"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "azizhh7865",
+  "active": "ON",
+  "waktusendadmin": "2026-06-07 19:05:13",
+  "loginLisensi": "2026-06-07 20:38:07",
+  "game": {
+    "name": "Five Nights at Freddy's: Security Breach",
+    "steamAppId": 747660,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/747660/header.jpg",
+    "inject_files": [
+      "https://drive.google.com/file/d/1BWUhBL6LOOtBv6VYLoBr98NtsK8Neker/view?usp=sharing"
+    ],
+    "bypass_files": []
+  }
 }
