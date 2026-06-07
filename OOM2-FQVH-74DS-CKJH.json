@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-07 18:10:25",
-    "loginLisensi": "",
-    "game": {
-        "name": "PRAGMATA",
-        "steamAppId": 3357650,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3357650&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/pragma%20fix_PASS.zip?download=true"
-        ]
-    }
+  "steam_username": "Rico Jerry",
+  "active": "ON",
+  "waktusendadmin": "2026-06-07 18:10:25",
+  "loginLisensi": "2026-06-07 23:01:58",
+  "game": {
+    "name": "PRAGMATA",
+    "steamAppId": 3357650,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3357650&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/pragma%20fix_PASS.zip?download=true"
+    ]
+  }
 }
