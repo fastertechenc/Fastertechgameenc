@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-07 21:17:26",
-    "loginLisensi": "",
-    "game": {
-        "name": "HR Simulator",
-        "steamAppId": 3179140,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179140/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3179140&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "vessel",
+  "active": "ON",
+  "waktusendadmin": "2026-06-07 21:17:26",
+  "loginLisensi": "2026-06-07 21:20:46",
+  "game": {
+    "name": "HR Simulator",
+    "steamAppId": 3179140,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3179140/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3179140&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": []
+  }
 }
