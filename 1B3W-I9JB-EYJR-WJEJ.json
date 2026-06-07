@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-07 21:27:11",
-    "loginLisensi": "",
-    "game": {
-        "name": "Anno 1800",
-        "steamAppId": 916440,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=916440&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/anno1800.zip?download=true"
-        ]
-    }
+  "steam_username": "lixgame.expedition33",
+  "active": "ON",
+  "waktusendadmin": "2026-06-07 21:27:11",
+  "loginLisensi": "2026-06-07 21:36:35",
+  "game": {
+    "name": "Anno 1800",
+    "steamAppId": 916440,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=916440&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/anno1800.zip?download=true"
+    ]
+  }
 }
