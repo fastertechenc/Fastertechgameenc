@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-08 22:47:48",
-    "loginLisensi": "",
-    "game": {
-        "name": "Resident Evil 7 Biohazard",
-        "steamAppId": 418370,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=418370&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "panjipurnomo061",
+  "active": "ON",
+  "waktusendadmin": "2026-06-08 22:47:48",
+  "loginLisensi": "2026-06-08 22:54:29",
+  "game": {
+    "name": "Resident Evil 7 Biohazard",
+    "steamAppId": 418370,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=418370&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": []
+  }
 }
