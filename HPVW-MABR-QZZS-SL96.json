@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-09 00:22:29",
-    "loginLisensi": "",
-    "game": {
-        "name": "Terraria",
-        "steamAppId": 105600,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
-        "inject_files": [
-            "https://drive.google.com/file/d/1NrWpwu9szYEEOQUJUaVHdGfyDKY9k4J7/view?usp=sharing"
-        ],
-        "bypass_files": [
-            "https://drive.google.com/file/d/1vNP6CYjKnhYhu7VIAuucJblk7QNeiGqm/view?usp=drivesdk"
-        ]
-    }
+  "steam_username": "XzoeIty",
+  "active": "ON",
+  "waktusendadmin": "2026-06-09 00:22:29",
+  "loginLisensi": "2026-06-09 00:45:57",
+  "game": {
+    "name": "Terraria",
+    "steamAppId": 105600,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
+    "inject_files": [
+      "https://drive.google.com/file/d/1NrWpwu9szYEEOQUJUaVHdGfyDKY9k4J7/view?usp=sharing"
+    ],
+    "bypass_files": [
+      "https://drive.google.com/file/d/1vNP6CYjKnhYhu7VIAuucJblk7QNeiGqm/view?usp=drivesdk"
+    ]
+  }
 }
