@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-08 09:21:40",
-    "loginLisensi": "",
-    "game": {
-        "name": "Ghost of Tsushima DIRECTOR'S CUT",
-        "steamAppId": 2215430,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
-        "inject_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2215430.zip?download=true"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "bagusprahasto",
+  "active": "ON",
+  "waktusendadmin": "2026-06-08 09:21:40",
+  "loginLisensi": "2026-06-08 10:28:41",
+  "game": {
+    "name": "Ghost of Tsushima DIRECTOR'S CUT",
+    "steamAppId": 2215430,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
+    "inject_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2215430.zip?download=true"
+    ],
+    "bypass_files": []
+  }
 }
