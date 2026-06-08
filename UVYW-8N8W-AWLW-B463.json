@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-08 08:54:01",
-    "loginLisensi": "",
-    "game": {
-        "name": "Minecraft Dungeons",
-        "steamAppId": 1672970,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672970/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1672970&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "60AL",
+  "active": "ON",
+  "waktusendadmin": "2026-06-08 08:54:01",
+  "loginLisensi": "2026-06-08 09:15:38",
+  "game": {
+    "name": "Minecraft Dungeons",
+    "steamAppId": 1672970,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672970/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1672970&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": []
+  }
 }
