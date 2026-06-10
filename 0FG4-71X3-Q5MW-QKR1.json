@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-10 21:18:33",
-    "loginLisensi": "",
-    "game": {
-        "name": "Enshrouded",
-        "steamAppId": 1203620,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/header.jpg",
-        "inject_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/no%20mans%20sky%20fix_PASS.zip?download=true"
-        ],
-        "bypass_files": [
-            "https://drive.google.com/file/d/1lvH6Doswu-GdmdSbOc1BRSX_kl0XSWeR/view?usp=sharing"
-        ]
-    }
+  "steam_username": "zimmer",
+  "active": "ON",
+  "waktusendadmin": "2026-06-10 21:18:33",
+  "loginLisensi": "2026-06-10 21:26:33",
+  "game": {
+    "name": "Enshrouded",
+    "steamAppId": 1203620,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/header.jpg",
+    "inject_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/no%20mans%20sky%20fix_PASS.zip?download=true"
+    ],
+    "bypass_files": [
+      "https://drive.google.com/file/d/1lvH6Doswu-GdmdSbOc1BRSX_kl0XSWeR/view?usp=sharing"
+    ]
+  }
 }
