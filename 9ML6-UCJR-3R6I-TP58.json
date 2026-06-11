@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-12 01:11:51",
-    "loginLisensi": "",
-    "game": {
-        "name": "FreshWomen - Season 2",
-        "steamAppId": 3478650,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478650/header.jpg",
-        "inject_files": [
-            "https://drive.google.com/file/d/1UOl4Cf1GxhN6dKx3cSFkNNj7M9L1IX0b/view?usp=drivesdk"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "User",
+  "active": "ON",
+  "waktusendadmin": "2026-06-12 01:11:51",
+  "loginLisensi": "2026-06-12 01:28:40",
+  "game": {
+    "name": "FreshWomen - Season 2",
+    "steamAppId": 3478650,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478650/header.jpg",
+    "inject_files": [
+      "https://drive.google.com/file/d/1UOl4Cf1GxhN6dKx3cSFkNNj7M9L1IX0b/view?usp=drivesdk"
+    ],
+    "bypass_files": []
+  }
 }
