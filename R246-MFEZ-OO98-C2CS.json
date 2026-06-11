@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-11 06:34:17",
-    "loginLisensi": "",
-    "game": {
-        "name": "TrackDayR",
-        "steamAppId": 1511630,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1511630/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1511630&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "AefarSTPD",
+  "active": "ON",
+  "waktusendadmin": "2026-06-11 06:34:17",
+  "loginLisensi": "2026-06-11 14:46:14",
+  "game": {
+    "name": "TrackDayR",
+    "steamAppId": 1511630,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1511630/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1511630&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": []
+  }
 }
