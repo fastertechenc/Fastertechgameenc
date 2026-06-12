@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-13 00:05:47",
-    "loginLisensi": "",
-    "game": {
-        "name": "Bellwright",
-        "steamAppId": 1812450,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/header.jpg",
-        "inject_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1812450.zip?download=true"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "Werner Heisenberg",
+  "active": "ON",
+  "waktusendadmin": "2026-06-13 00:05:47",
+  "loginLisensi": "2026-06-13 00:11:04",
+  "game": {
+    "name": "Bellwright",
+    "steamAppId": 1812450,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/header.jpg",
+    "inject_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1812450.zip?download=true"
+    ],
+    "bypass_files": []
+  }
 }
