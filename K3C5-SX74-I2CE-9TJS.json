@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-12 22:35:58",
-    "loginLisensi": "",
-    "game": {
-        "name": "A Space for the Unbound",
-        "steamAppId": 1201270,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201270/header.jpg",
-        "inject_files": [
-            "https://drive.google.com/file/d/12r4NG_bXY3Cd4cZZWVwVNIC9X6jMfDaU/view?usp=sharing"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "因为你的老二也会很快",
+  "active": "ON",
+  "waktusendadmin": "2026-06-12 22:35:58",
+  "loginLisensi": "2026-06-13 00:37:05",
+  "game": {
+    "name": "A Space for the Unbound",
+    "steamAppId": 1201270,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201270/header.jpg",
+    "inject_files": [
+      "https://drive.google.com/file/d/12r4NG_bXY3Cd4cZZWVwVNIC9X6jMfDaU/view?usp=sharing"
+    ],
+    "bypass_files": []
+  }
 }
