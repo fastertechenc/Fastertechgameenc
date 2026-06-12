@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-12 23:22:52",
+    "loginLisensi": "",
+    "game": {
+        "name": "Wallpaper Engine",
+        "steamAppId": 431960,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg",
+        "inject_files": [
+            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/431960.zip?download=true"
+        ],
+        "bypass_files": []
+    }
+}
