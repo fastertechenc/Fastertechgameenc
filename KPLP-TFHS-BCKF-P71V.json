@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-13 11:19:59",
-    "loginLisensi": "",
-    "game": {
-        "name": "Big Ambitions",
-        "steamAppId": 1331550,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1331550&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "MHWAXOLT",
+  "active": "ON",
+  "waktusendadmin": "2026-06-13 11:19:59",
+  "loginLisensi": "2026-06-13 12:22:19",
+  "game": {
+    "name": "Big Ambitions",
+    "steamAppId": 1331550,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1331550&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": []
+  }
 }
