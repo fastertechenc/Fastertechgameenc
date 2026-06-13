@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-13 18:39:07",
-    "loginLisensi": "",
-    "game": {
-        "name": "RV There Yet?",
-        "steamAppId": 3949040,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3949040&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/RvThereYet.zip?download=true"
-        ]
-    }
+  "steam_username": "frozone",
+  "active": "ON",
+  "waktusendadmin": "2026-06-13 18:39:07",
+  "loginLisensi": "2026-06-13 18:46:59",
+  "game": {
+    "name": "RV There Yet?",
+    "steamAppId": 3949040,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3949040&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/RvThereYet.zip?download=true"
+    ]
+  }
 }
