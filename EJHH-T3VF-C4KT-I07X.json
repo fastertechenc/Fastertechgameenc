@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-13 18:03:30",
+    "loginLisensi": "",
+    "game": {
+        "name": "Call of Duty®: WWII",
+        "steamAppId": 476600,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/476600/header.jpg",
+        "inject_files": [
+            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=476600&auth_code=RYUUMANIFEST72oz"
+        ],
+        "bypass_files": []
+    }
+}
