@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-13 21:33:26",
+    "loginLisensi": "",
+    "game": {
+        "name": "Assetto Corsa",
+        "steamAppId": 244210,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/header.jpg",
+        "inject_files": [
+            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/244210.zip?download=true"
+        ],
+        "bypass_files": []
+    }
+}
