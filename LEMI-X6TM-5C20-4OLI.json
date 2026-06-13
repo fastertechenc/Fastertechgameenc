@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-13 08:14:09",
-    "loginLisensi": "",
-    "game": {
-        "name": "House Party",
-        "steamAppId": 611790,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=611790&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "Ino",
+  "active": "ON",
+  "waktusendadmin": "2026-06-13 08:14:09",
+  "loginLisensi": "2026-06-13 09:53:06",
+  "game": {
+    "name": "House Party",
+    "steamAppId": 611790,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611790/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=611790&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": []
+  }
 }
