@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-13 18:55:18",
-    "loginLisensi": "",
-    "game": {
-        "name": "Watch Dogs 2",
-        "steamAppId": 447040,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/header.jpg",
-        "inject_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/447040%28V1%29.zip?download=true"
-        ],
-        "bypass_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/watchdog2.zip?download=true"
-        ]
-    }
+  "steam_username": "Kazuto",
+  "active": "ON",
+  "waktusendadmin": "2026-06-13 18:55:18",
+  "loginLisensi": "2026-06-13 18:59:45",
+  "game": {
+    "name": "Watch Dogs 2",
+    "steamAppId": 447040,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/header.jpg",
+    "inject_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/447040%28V1%29.zip?download=true"
+    ],
+    "bypass_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/watchdog2.zip?download=true"
+    ]
+  }
 }
