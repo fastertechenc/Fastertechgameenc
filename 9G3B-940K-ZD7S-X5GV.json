@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-13 22:54:35",
-    "loginLisensi": "",
-    "game": {
-        "name": "Unravel Two",
-        "steamAppId": 1225570,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/header.jpg",
-        "inject_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1225570.zip?download=true"
-        ],
-        "bypass_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/UnravelFix.zip?download=true"
-        ]
-    }
+  "steam_username": "nba25axolt1",
+  "active": "ON",
+  "waktusendadmin": "2026-06-13 22:54:35",
+  "loginLisensi": "2026-06-13 23:00:18",
+  "game": {
+    "name": "Unravel Two",
+    "steamAppId": 1225570,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/header.jpg",
+    "inject_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1225570.zip?download=true"
+    ],
+    "bypass_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/UnravelFix.zip?download=true"
+    ]
+  }
 }
