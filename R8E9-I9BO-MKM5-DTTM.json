@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-13 18:53:15",
+    "loginLisensi": "",
+    "game": {
+        "name": "Rise of the Tomb Raider™",
+        "steamAppId": 391220,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/header.jpg",
+        "inject_files": [
+            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/391220.zip?download=true"
+        ],
+        "bypass_files": []
+    }
+}
