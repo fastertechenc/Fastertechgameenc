@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-13 22:47:23",
+    "loginLisensi": "",
+    "game": {
+        "name": "Attack on Titan 2 - A.O.T.2",
+        "steamAppId": 601050,
+        "header": "null",
+        "inject_files": [
+            "https://drive.google.com/file/d/1qbuWvXA5aDUghFsoXq8-d18XkJuLAouq/view?usp=drivesdk"
+        ],
+        "bypass_files": []
+    }
+}
