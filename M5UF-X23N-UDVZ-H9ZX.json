@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-13 14:09:00",
-    "loginLisensi": "",
-    "game": {
-        "name": "Far Cry® 5",
-        "steamAppId": 552520,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/header.jpg",
-        "inject_files": [
-            "https://drive.google.com/file/d/1Ne3AiJ6aEJDmcP5YfzAEMs29ZBu_n3u4/view?usp=sharing"
-        ],
-        "bypass_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/FixCry5.zip?download=true"
-        ]
-    }
+  "steam_username": "BangSing",
+  "active": "ON",
+  "waktusendadmin": "2026-06-13 14:09:00",
+  "loginLisensi": "2026-06-13 14:11:15",
+  "game": {
+    "name": "Far Cry® 5",
+    "steamAppId": 552520,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/header.jpg",
+    "inject_files": [
+      "https://drive.google.com/file/d/1Ne3AiJ6aEJDmcP5YfzAEMs29ZBu_n3u4/view?usp=sharing"
+    ],
+    "bypass_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/FixCry5.zip?download=true"
+    ]
+  }
 }
