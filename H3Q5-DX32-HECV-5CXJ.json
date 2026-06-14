@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-14 12:31:40",
+    "loginLisensi": "",
+    "game": {
+        "name": "Feed and Grow: Fish",
+        "steamAppId": 429050,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429050/header.jpg",
+        "inject_files": [
+            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/429050.zip?download=true"
+        ],
+        "bypass_files": []
+    }
+}
