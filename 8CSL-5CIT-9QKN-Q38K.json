@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-14 22:38:04",
-    "loginLisensi": "",
-    "game": {
-        "name": "Dying Light: The Beast Restored Land",
-        "steamAppId": 3008130,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3008130&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "myzillss",
+  "active": "ON",
+  "waktusendadmin": "2026-06-14 22:38:04",
+  "loginLisensi": "2026-06-14 23:57:05",
+  "game": {
+    "name": "Dying Light: The Beast Restored Land",
+    "steamAppId": 3008130,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3008130&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": []
+  }
 }
