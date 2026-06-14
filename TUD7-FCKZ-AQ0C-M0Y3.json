@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-15 05:19:02",
-    "loginLisensi": "",
-    "game": {
-        "name": "Ratchet & Clank: Rift Apart",
-        "steamAppId": 1895880,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1895880&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "usdoci803",
+  "active": "ON",
+  "waktusendadmin": "2026-06-15 05:19:02",
+  "loginLisensi": "2026-06-15 05:53:12",
+  "game": {
+    "name": "Ratchet & Clank: Rift Apart",
+    "steamAppId": 1895880,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1895880&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": []
+  }
 }
