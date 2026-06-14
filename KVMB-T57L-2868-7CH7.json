@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-15 02:38:28",
-    "loginLisensi": "",
-    "game": {
-        "name": "Sleeping Dogs: Definitive Edition",
-        "steamAppId": 307690,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307690/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=307690&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "jugter33",
+  "active": "ON",
+  "waktusendadmin": "2026-06-15 02:38:28",
+  "loginLisensi": "2026-06-15 03:52:25",
+  "game": {
+    "name": "Sleeping Dogs: Definitive Edition",
+    "steamAppId": 307690,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307690/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=307690&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": []
+  }
 }
