@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-14 23:12:58",
+    "loginLisensi": "",
+    "game": {
+        "name": "Starfield",
+        "steamAppId": 1716740,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg",
+        "inject_files": [
+            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1716740&auth_code=RYUUMANIFEST72oz"
+        ],
+        "bypass_files": []
+    }
+}
