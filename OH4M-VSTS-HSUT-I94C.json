@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-16 06:03:51",
-    "loginLisensi": "",
-    "game": {
-        "name": "REANIMAL",
-        "steamAppId": 2129530,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/header.jpg",
-        "inject_files": [
-            "https://drive.google.com/file/d/1YzSlPKX9_noYMz226MN42dNs5ZGKzWqX/view?usp=sharing"
-        ],
-        "bypass_files": [
-            "https://drive.google.com/file/d/1UVi2rHLvhuFIeIIeCGfkF_ZBURt0Qo0n/view?usp=drivesdk"
-        ]
-    }
+  "steam_username": "juanxdafa",
+  "active": "ON",
+  "waktusendadmin": "2026-06-16 06:03:51",
+  "loginLisensi": "2026-06-16 06:04:26",
+  "game": {
+    "name": "REANIMAL",
+    "steamAppId": 2129530,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/header.jpg",
+    "inject_files": [
+      "https://drive.google.com/file/d/1YzSlPKX9_noYMz226MN42dNs5ZGKzWqX/view?usp=sharing"
+    ],
+    "bypass_files": [
+      "https://drive.google.com/file/d/1UVi2rHLvhuFIeIIeCGfkF_ZBURt0Qo0n/view?usp=drivesdk"
+    ]
+  }
 }
