@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-15 13:59:42",
-    "loginLisensi": "",
-    "game": {
-        "name": "The Killing Antidote",
-        "steamAppId": 2254890,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254890/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2254890&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "Mujaa",
+  "active": "ON",
+  "waktusendadmin": "2026-06-15 13:59:42",
+  "loginLisensi": "2026-06-15 15:06:39",
+  "game": {
+    "name": "The Killing Antidote",
+    "steamAppId": 2254890,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254890/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2254890&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": []
+  }
 }
