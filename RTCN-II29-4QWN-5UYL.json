@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-16 06:54:21",
+    "loginLisensi": "",
+    "game": {
+        "name": "Resident Evil 4",
+        "steamAppId": 2050650,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
+        "inject_files": [
+            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/2050650.zip?download=true"
+        ],
+        "bypass_files": []
+    }
+}
