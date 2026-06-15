@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-15 16:47:07",
-    "loginLisensi": "",
-    "game": {
-        "name": "Jurassic World Evolution 2",
-        "steamAppId": 1244460,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1244460/header.jpg",
-        "inject_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1244460.zip?download=true"
-        ],
-        "bypass_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/jurassic_worldevo_2.zip?download=true"
-        ]
-    }
+  "steam_username": "adlie201125",
+  "active": "ON",
+  "waktusendadmin": "2026-06-15 16:47:07",
+  "loginLisensi": "2026-06-15 16:51:46",
+  "game": {
+    "name": "Jurassic World Evolution 2",
+    "steamAppId": 1244460,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1244460/header.jpg",
+    "inject_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1244460.zip?download=true"
+    ],
+    "bypass_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/jurassic_worldevo_2.zip?download=true"
+    ]
+  }
 }
