@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-15 23:32:18",
+    "loginLisensi": "",
+    "game": {
+        "name": "Construction Simulator",
+        "steamAppId": 1273400,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/header.jpg",
+        "inject_files": [
+            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1273400.zip?download=true"
+        ],
+        "bypass_files": []
+    }
+}
