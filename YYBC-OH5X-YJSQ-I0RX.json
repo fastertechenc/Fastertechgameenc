@@ -1,0 +1,17 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-15 22:23:29",
+    "loginLisensi": "",
+    "game": {
+        "name": "House Flipper 2",
+        "steamAppId": 1190970,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190970/header.jpg",
+        "inject_files": [
+            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1190970.zip?download=true"
+        ],
+        "bypass_files": [
+            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/HouseFlipper2.zip?download=true"
+        ]
+    }
+}
