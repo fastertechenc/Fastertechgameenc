@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-15 15:02:05",
-    "loginLisensi": "",
-    "game": {
-        "name": "Project Zomboid",
-        "steamAppId": 108600,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg",
-        "inject_files": [
-            "https://drive.google.com/file/d/11w5owLzkB-gRA7qLi-QZO5IomzY8JwLg/view?usp=sharing"
-        ],
-        "bypass_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/PROCES_FIX.zip?download=true"
-        ]
-    }
+  "steam_username": "vinsonsteam",
+  "active": "ON",
+  "waktusendadmin": "2026-06-15 15:02:05",
+  "loginLisensi": "2026-06-15 18:39:25",
+  "game": {
+    "name": "Project Zomboid",
+    "steamAppId": 108600,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg",
+    "inject_files": [
+      "https://drive.google.com/file/d/11w5owLzkB-gRA7qLi-QZO5IomzY8JwLg/view?usp=sharing"
+    ],
+    "bypass_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/PROCES_FIX.zip?download=true"
+    ]
+  }
 }
