@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-15 21:10:24",
-    "loginLisensi": "",
-    "game": {
-        "name": "A Monster's Expedition",
-        "steamAppId": 1052990,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1052990/header.jpg",
-        "inject_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1052990.zip?download=true"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "Saq-Madiq",
+  "active": "ON",
+  "waktusendadmin": "2026-06-15 21:10:24",
+  "loginLisensi": "2026-06-15 21:19:45",
+  "game": {
+    "name": "A Monster's Expedition",
+    "steamAppId": 1052990,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1052990/header.jpg",
+    "inject_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/1052990.zip?download=true"
+    ],
+    "bypass_files": []
+  }
 }
