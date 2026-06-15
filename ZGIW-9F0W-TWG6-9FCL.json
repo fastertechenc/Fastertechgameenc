@@ -1,0 +1,17 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-15 23:20:41",
+    "loginLisensi": "",
+    "game": {
+        "name": "STAR WARS Jedi: Survivor™",
+        "steamAppId": 1774580,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1774580/header.jpg",
+        "inject_files": [
+            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=1774580&auth_code=RYUUMANIFEST72oz"
+        ],
+        "bypass_files": [
+            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/jedi_survivor_fix_PASS.zip?download=true"
+        ]
+    }
+}
