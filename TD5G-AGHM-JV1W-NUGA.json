@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-16 18:32:25",
-    "loginLisensi": "",
-    "game": {
-        "name": "Overcooked! 2",
-        "steamAppId": 728880,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg",
-        "inject_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/728880.zip?download=true"
-        ],
-        "bypass_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/PROCES_FIX.zip?download=true"
-        ]
-    }
+  "steam_username": "siawyiping22",
+  "active": "ON",
+  "waktusendadmin": "2026-06-16 18:32:25",
+  "loginLisensi": "2026-06-16 18:41:18",
+  "game": {
+    "name": "Overcooked! 2",
+    "steamAppId": 728880,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg",
+    "inject_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/728880.zip?download=true"
+    ],
+    "bypass_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/PROCES_FIX.zip?download=true"
+    ]
+  }
 }
