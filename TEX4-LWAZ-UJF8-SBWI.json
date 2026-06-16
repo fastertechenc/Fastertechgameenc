@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-16 14:52:36",
-    "loginLisensi": "",
-    "game": {
-        "name": "Half Sword",
-        "steamAppId": 2397300,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397300/header.jpg",
-        "inject_files": [
-            "https://drive.google.com/file/d/1xJeSIiHpkYbEldljXAUsXaPfFkhzzKGa/view?usp=sharing"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "Tuonius",
+  "active": "ON",
+  "waktusendadmin": "2026-06-16 14:52:36",
+  "loginLisensi": "2026-06-16 14:55:45",
+  "game": {
+    "name": "Half Sword",
+    "steamAppId": 2397300,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397300/header.jpg",
+    "inject_files": [
+      "https://drive.google.com/file/d/1xJeSIiHpkYbEldljXAUsXaPfFkhzzKGa/view?usp=sharing"
+    ],
+    "bypass_files": []
+  }
 }
