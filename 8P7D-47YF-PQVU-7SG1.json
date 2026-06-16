@@ -1,0 +1,17 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-16 17:59:29",
+    "loginLisensi": "",
+    "game": {
+        "name": "Schedule I",
+        "steamAppId": 3164500,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg",
+        "inject_files": [
+            "https://drive.google.com/file/d/1abZZPhVWOhfVjKE7liFcGUVTtQvwztq-/view?usp=sharing"
+        ],
+        "bypass_files": [
+            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/FixCoralIslandStrix.zip?download=true"
+        ]
+    }
+}
