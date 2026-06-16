@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-16 18:32:28",
-    "loginLisensi": "",
-    "game": {
-        "name": "Librarian: Tidy Up the Arcane Library!",
-        "steamAppId": 4197610,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197610/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4197610&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "siawyiping22",
+  "active": "ON",
+  "waktusendadmin": "2026-06-16 18:32:28",
+  "loginLisensi": "2026-06-16 18:47:12",
+  "game": {
+    "name": "Librarian: Tidy Up the Arcane Library!",
+    "steamAppId": 4197610,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197610/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=4197610&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": []
+  }
 }
