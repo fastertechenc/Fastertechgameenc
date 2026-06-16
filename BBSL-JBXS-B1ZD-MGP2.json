@@ -1,0 +1,17 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-16 19:13:24",
+    "loginLisensi": "",
+    "game": {
+        "name": "FIFA 22",
+        "steamAppId": 1506830,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1506830/header.jpg",
+        "inject_files": [
+            "https://drive.google.com/file/d/1sTll-i3IA8pU5G3lNpfgRY20KfU1iLwJ/view?usp=sharing"
+        ],
+        "bypass_files": [
+            "https://huggingface.co/datasets/dikiajak/fix/resolve/main/FIFA22FIX.zip?download=true"
+        ]
+    }
+}
