@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-16 16:56:54",
+    "loginLisensi": "",
+    "game": {
+        "name": "A Space for the Unbound",
+        "steamAppId": 1201270,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201270/header.jpg",
+        "inject_files": [
+            "https://drive.google.com/file/d/12r4NG_bXY3Cd4cZZWVwVNIC9X6jMfDaU/view?usp=sharing"
+        ],
+        "bypass_files": []
+    }
+}
