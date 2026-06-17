@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-17 21:30:16",
+    "loginLisensi": "",
+    "game": {
+        "name": "Five Hearts Under One Roof",
+        "steamAppId": 3021100,
+        "header": "null",
+        "inject_files": [
+            "https://drive.google.com/file/d/1wY-aBFvYXypsjx-E3Dh_Y_p5AsQDcGdm/view?usp=drivesdk"
+        ],
+        "bypass_files": []
+    }
+}
