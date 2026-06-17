@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-17 16:43:40",
-    "loginLisensi": "",
-    "game": {
-        "name": "ONE PIECE: PIRATE WARRIORS 4",
-        "steamAppId": 1089090,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089090/header.jpg",
-        "inject_files": [
-            "https://drive.google.com/file/d/1QjE59E1wBFCa83iokRfiDbsrBgu9J1tv/view?usp=sharing"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "Obos-",
+  "active": "ON",
+  "waktusendadmin": "2026-06-17 16:43:40",
+  "loginLisensi": "2026-06-17 19:17:43",
+  "game": {
+    "name": "ONE PIECE: PIRATE WARRIORS 4",
+    "steamAppId": 1089090,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089090/header.jpg",
+    "inject_files": [
+      "https://drive.google.com/file/d/1QjE59E1wBFCa83iokRfiDbsrBgu9J1tv/view?usp=sharing"
+    ],
+    "bypass_files": []
+  }
 }
