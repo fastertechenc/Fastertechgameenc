@@ -1,0 +1,17 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-17 22:01:50",
+    "loginLisensi": "",
+    "game": {
+        "name": "Resident Evil 9 Requiem",
+        "steamAppId": 3764200,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/header.jpg",
+        "inject_files": [
+            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=3764200&auth_code=RYUUMANIFEST72oz"
+        ],
+        "bypass_files": [
+            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/resident_evil6_requiem.zip?download=true"
+        ]
+    }
+}
