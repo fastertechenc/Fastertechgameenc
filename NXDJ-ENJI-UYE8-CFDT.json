@@ -1,15 +1,15 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-17 11:55:27",
-    "loginLisensi": "",
-    "game": {
-        "name": "SpongeBob SquarePants: Titans of the Tide",
-        "steamAppId": 2479650,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479650/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2479650&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": []
-    }
+  "steam_username": "rafrif077",
+  "active": "ON",
+  "waktusendadmin": "2026-06-17 11:55:27",
+  "loginLisensi": "2026-06-17 12:04:17",
+  "game": {
+    "name": "SpongeBob SquarePants: Titans of the Tide",
+    "steamAppId": 2479650,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479650/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2479650&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": []
+  }
 }
