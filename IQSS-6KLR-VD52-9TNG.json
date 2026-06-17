@@ -1,0 +1,15 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-17 17:05:27",
+    "loginLisensi": "",
+    "game": {
+        "name": "Train Sim World® 6",
+        "steamAppId": 3656800,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3656800/header.jpg",
+        "inject_files": [
+            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/3656800.zip?download=true"
+        ],
+        "bypass_files": []
+    }
+}
