@@ -1,17 +1,17 @@
 {
-    "steam_username": "kosong",
-    "active": "OFF",
-    "waktusendadmin": "2026-06-16 21:01:42",
-    "loginLisensi": "",
-    "game": {
-        "name": "Assassin's Creed Valhalla",
-        "steamAppId": 2208920,
-        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208920/header.jpg",
-        "inject_files": [
-            "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2208920&auth_code=RYUUMANIFEST72oz"
-        ],
-        "bypass_files": [
-            "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/AssassinCreedValhala.zip?download=true"
-        ]
-    }
+  "steam_username": "acsc.galaxias",
+  "active": "ON",
+  "waktusendadmin": "2026-06-16 21:01:42",
+  "loginLisensi": "2026-06-17 15:21:27",
+  "game": {
+    "name": "Assassin's Creed Valhalla",
+    "steamAppId": 2208920,
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208920/header.jpg",
+    "inject_files": [
+      "https://kyzu-proxy.ucupbaba1906.workers.dev/secure_download?appid=2208920&auth_code=RYUUMANIFEST72oz"
+    ],
+    "bypass_files": [
+      "https://huggingface.co/datasets/Strixgame/RedDead2/resolve/main/AssassinCreedValhala.zip?download=true"
+    ]
+  }
 }
