@@ -1,0 +1,17 @@
+{
+    "steam_username": "kosong",
+    "active": "OFF",
+    "waktusendadmin": "2026-06-17 22:14:57",
+    "loginLisensi": "",
+    "game": {
+        "name": "F1 2021",
+        "steamAppId": 1134570,
+        "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134570/header.jpg",
+        "inject_files": [
+            "https://drive.google.com/file/d/1-citBk0LdC6pcJK_x6jwUS-uc8H40tQC/view?usp=drivesdk"
+        ],
+        "bypass_files": [
+            "https://drive.google.com/file/d/10xdRgLRzykw7SqCTbii2rv5xSJk5yBm5/view?usp=sharing"
+        ]
+    }
+}
