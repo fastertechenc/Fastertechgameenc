@@ -1,0 +1,5 @@
+{
+  "format": "STRIX_AESGCM_V1",
+  "alg": "AES-256-GCM-SHA256-PASSWORD",
+  "payload": "eMf/OCldveBj2Rt3IBdLgzWjb4ZAaek59ygyz/OAECY3fEQ5Av4nNWun2DFAQpDO/GIk7+fxIFuuUSL6b0sO4iCdWTm77qZW4lVhuBe6S2uQypIvhOwlIOp8MK6vMkNVbwyC9souVv/i0zSJyZ3BgkL4t5g2Ex95G1dlI7YokwRwf8xf3auF+MIhblHIB/7NL1Q09buvljlQzjg14fUmpMmL3p2XABk5k1ZeoJeRMq8pp2h7ytF7itfZU6WWlJ42N2b6ZEv8oBhjNv9xOF9/4GJKQVjVy2vj5N4uptuDRvnDP6kJbmTH7oPW3rhtKaRq0m+DT5asYeMG4xRWmspuk9vGMXDvAjS4xZ4Z6VEz2iA0p8C6RPSeB8emj58OK/vfAA0PwpsKJdH3zyce20/mczul0itnPgqzJFKxS+shP/B2Tz/ZviJiOzkr+wuRx3lTvRPAp6spNns8k4GWes93f5dHhsDSsSs/Wr90zqbPg/UwrrrLtiVf6YWAqKQVf9WmibrDhrgF//fX7UFpGBsNjg=="
+}
