@@ -1,0 +1,5 @@
+{
+  "format": "STRIX_AESGCM_V1",
+  "alg": "AES-256-GCM-SHA256-PASSWORD",
+  "payload": "k9qYF0w0ZH6xB4cS1D224iq86OCtuOcWS0GeDUqa98rYLqE7HiS8V91Pm2nwsYAGKhT1sCLQRpc9fty5TAMMHok8xojZA8PA86MXziOqZPliUkqr0pAZ0pnqZsrXAgfPCXiLGSewsbqBMjkofA=="
+}
